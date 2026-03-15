@@ -8,7 +8,7 @@ I passed Level 3 of the CFA program in August 2025.
 
 Fundamental investing is one of my personal hobbies. All of my personal savings are in individual securities. I do not "outsource" any of my portfolio anymore (except for money market).
 
-I created this page to document my research process and general approach to investing as it evolves. The goal is for me to have something tangible for others to learn about my interest in investing, and to document my work for personal benefit.
+I created this page to document my research process and approach to investing. The goal is for me to have something tangible for others to learn about my interest in investing, and to document my work for personal benefit.
 
 It will contain a selection of reports and accompanying financial models on stocks that I have analyzed.
 
