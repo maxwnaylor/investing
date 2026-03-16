@@ -8,7 +8,7 @@ Philosophy:
 
 1) The market is directionally efficient in the long-run, but tends to overreact in the short-run. There is profit to be made by buying what the market wants to be selling, but the market is right more often than it is wrong, so be careful. 
 2) I have a contrarian instinct, and a lot of patience. I take a multi-year (5+) time horizon, and don't have any issue being "wrong" for long periods of time, as long as I am confident I will be right eventually.
-3) A stock's return is driven by two forces: i) Valuation (how much are you paying?) ii) Investment returns (how effectively will this company turn investments into future cash flows?). You can make money by being right about one or both of these points when the consensus is wrong. I try to find opportunities where the market is wrong about both.
+3) A stock's return is driven by two forces: i) Valuation (how much are you paying?) ii) Investment returns (how effectively will this company turn investments into future cash flows?). Above average returns come when you are right about one or both of these points when the consensus is wrong. I try to find opportunities where the market is wrong about both.
    
 I will also note, there are two general ways to make money from investing.
 1) Have superior information to the market
