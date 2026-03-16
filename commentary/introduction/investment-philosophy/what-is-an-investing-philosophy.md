@@ -1,7 +1,7 @@
 # What does it mean to have an investment philosophy? 
 
 
-Valuation is not a science (hard rules and clear outcomes), nor is it an art (a company's value is not in the eye of the beholder, but of the market). 
+Valuation is not a science (hard rules and clear outcomes), nor is it an art (there are rules: a company's value is not in the eye of the beholder).
 
 I like to steal Aswath Damodaran's view that valuation is a "craft". 
 It contains elements of science (irrefutable logic, e.g. a company's value is the present value of future cash flows).
