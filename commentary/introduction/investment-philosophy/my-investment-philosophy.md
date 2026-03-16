@@ -14,4 +14,4 @@ I will also note, there are two general ways to make money from investing.
 1) Have superior information to the market
 2) Think about public information in a way superior to the market
 
-I believe 1) is difficult to do today (though not impossible), but 2) remains a very effective way to earn above average returns.
+I believe 1) is difficult to do legally today (though not impossible), but 2) remains a very effective way to earn above average returns.
