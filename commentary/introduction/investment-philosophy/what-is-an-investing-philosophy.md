@@ -18,11 +18,3 @@ In my view, a good investing philosophy has three characteristics:
 
 Alongside a philosophy comes an investment approach (i.e., what do you actually invest in?)
 
-Here is one example of an investing philsophy (it is not mine) based on these three criteria, with an accompanying approach:
-
-Approach: "I like to invest in high-growth public equities with substantial uncertainty, generally holding over short time-horizons"
-
-Philosophy:
-1) The market is directionally efficient in the long-run, but human psychology causes investors to underestimate the potential of future growth in the short-run, especially following large stock price increases.
-2) I have little patience, and like following the markets very closely. I have an above average ability to assess changes in sentiment surrounding stocks.
-3) My opportunity set changes as markets change, but my core principle is buying companies with valuations that understate their growth trajectory, and selling them when growth has slowed and before sentiment turns negative. 
