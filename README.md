@@ -18,5 +18,8 @@ If you're interested in my investing philosophy, visit the /commentary branch of
 
 I hope you find this page useful. You can reach me via email at maxwnaylor@gmail.com
 
+
+
+
 "I am convinced of at least two things: 1. If you really want to “beat the market,” most professionals and academics can’t help you, and 2. That leaves only one real alternative: You must do it yourself.”
 ― Joel Greenblatt
